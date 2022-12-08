@@ -6,15 +6,11 @@ Following a tutorial online and typing it out.
 
 To use on own network.
 
-Windows: ipconfig /all
+Grab IP address
 
-grab IP address
+run this program as root
 
-Open linux
-
-run as root
-
-python3 networkscanner.py -t <IP Address>/(subnet)
+sudo python3 networkscanner.py -t <IP Address>/(subnet)
 
 Thank you
 
